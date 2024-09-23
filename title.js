@@ -1,2 +1,2 @@
-const title = ("Uralbek UZ");
-document.getElementById('')
+const title = ('Uralbek UZ');
+document.getElementById('title')
