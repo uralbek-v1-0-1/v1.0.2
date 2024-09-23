@@ -1,1 +1,2 @@
-const title = ("Ural")
+const title = ("Uralbek UZ");
+document.getElementById('')
