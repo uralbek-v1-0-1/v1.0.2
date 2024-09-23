@@ -1,0 +1,1 @@
+document.getElementById("logotip").innerHTML = "New text!";
