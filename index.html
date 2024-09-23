@@ -15,10 +15,15 @@
 
 
 
-<br><span id="demo"></span>.</p>
+<button onclick="myFunction()">Try it</button>
 
 <script>
-document.getElementById("demo").innerHTML = document.URL
+function myFunction() {
+  var w = window.open();
+  w.document.open();
+  w.document.write("<h2>Hello World!</h2>");
+  w.document.close();
+}
 </script>
 
 </div>
