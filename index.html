@@ -15,14 +15,10 @@
 
 
 
-<button onclick="myFunction()">Try it</button>
-
-<p id="demo"></p>
+<p>This document was last modified <span id="demo"></span>.</p>
 
 <script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = document.domain;
-}
+document.getElementById("demo").innerHTML = document.lastModified;
 </script>
 
 </div>
