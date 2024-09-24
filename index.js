@@ -1,1 +1,1 @@
-document.getElementById("logotip").innerHTML = "New text!";
+document.getElementById("logotip").innerHTML = "Uralbek UZ";
