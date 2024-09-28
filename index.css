@@ -3,12 +3,12 @@
     box-shadow: 2px 0 2px 2px #777;
 }
 #header {
-    padding-top: 5px;
+    padding-top: 5.5px;
     padding-bottom: 3.5px;
 }
 #logotip {
     color: #0095b6;
     margin-left: 18px;
     font-size: 24px;
-    font-weight: bold, bold, b;
+    font-weight: bold, bold, bold;
 }
