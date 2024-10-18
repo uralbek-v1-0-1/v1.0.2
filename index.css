@@ -9,9 +9,9 @@
 #menu {
     color: #0095b6;
     margin-left: 20px;
-    font-size: 26px;
+    font-size: 24px;
     font-family: "Oswald";
-    css-text: &#9776;
+    css-text: menu;
 }
 #logotip {
     color: #0095b6;
